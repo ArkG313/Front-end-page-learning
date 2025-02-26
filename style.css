@@ -1,0 +1,46 @@
+.title{
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 25px; 
+    text-align: center;
+}
+.sign-in{
+    color: aliceblue;
+    background-color: chartreuse;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    display: block;
+}
+html{
+    min-height: 100vh;
+}
+body{
+    background-color: rgb(234, 250, 6);
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   margin: 0;
+   background-image:url(91c64ccb958cbf3001074c492a7d7e5.jpg);
+   background-repeat: no-repeat;
+   background-size:100% 100% ;
+   background-position: center;
+}
+.form{
+    background-color: rgba(255,255,255,0.8);
+    display:inline-block;
+    padding: 40px;
+    border-radius:10px;
+
+}       
+.ipt{
+    width: 100%;
+    padding: 0;
+    border: 1px solid black;
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+
+}   
